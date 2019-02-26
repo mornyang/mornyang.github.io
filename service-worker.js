@@ -21,11 +21,11 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "aa75112a15ab660cf46847e5b764d419"
+    "revision": "273f1fa27c7494d8ce00b6d1b052303f"
   },
   {
     "url": "about/index.html",
-    "revision": "dec16f63b9776356bbf53fbf7d3f0149"
+    "revision": "5b3c32554bc66020afc5fbe7e566c284"
   },
   {
     "url": "assets/css/0.styles.559343f1.css",
@@ -64,16 +64,16 @@ self.__precacheManifest = [
     "revision": "75a864670292124cfb56ca862ed123b8"
   },
   {
-    "url": "assets/js/app.bcb92e6c.js",
-    "revision": "30d4e3e732b277b51ccd925eb9ae3adb"
+    "url": "assets/js/app.cfd9f6ac.js",
+    "revision": "6a0a0e15972d5436dd0b1f838b22bad2"
   },
   {
     "url": "blog/hello.html",
-    "revision": "a50ed4e5818cc22c5a823d7bd0b8d00a"
+    "revision": "a88d043a8ae9f9ea425da39a7bbc611f"
   },
   {
     "url": "blog/test.html",
-    "revision": "6a74e131ded1d96f9870a324ed77d1de"
+    "revision": "3bf2620ad474907fcf6e28319c3d773a"
   },
   {
     "url": "img/avatar.jpg",
@@ -89,7 +89,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "c99e63227163bfe539c0f6b7402ed46b"
+    "revision": "d6e6332957b70d767f0de8000f53689c"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
